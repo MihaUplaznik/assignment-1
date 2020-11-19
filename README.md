@@ -6,12 +6,12 @@ To Run This project
 you need to have successfully installed nodejs (15.2) @angular/cli (7)
 after you download and unpack
 
-If all data works you should se styled
+If all data works you should see styled
 ----------------------------------
-Assignment 1
-A Warning Alert
-A Warning Alert
-A Success alert
-A Success alert
-A Success alert
+Assignment 1<br>
+A Warning Alert<br>
+A Warning Alert<br>
+A Success alert<br>
+A Success alert<br>
+A Success alert<br>
 ----------------------------------

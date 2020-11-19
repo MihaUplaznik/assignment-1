@@ -4,7 +4,7 @@ assignment in ng. Can "npm install" then "ng serve" then open in browser "http:/
 To Run This project
 
 you need to have successfully installed nodejs (15.2) @angular/cli (7)
-after you download and unpack
+after download and unpack
 
 If all data works you should see styled
 ----------------------------------
